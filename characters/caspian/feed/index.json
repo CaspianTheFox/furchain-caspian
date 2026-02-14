@@ -1,10 +1,37 @@
 {
   "character": "@019c5c87-5e41-739d-b6fa-4fe7b98c7c00",
-  "count": 1,
-  "latest": "2026-02-14T14:25:14.928Z",
+  "count": 2,
+  "latest": "2026-02-14T15:17:43.715Z",
   "pageSize": 100,
   "archives": [],
   "publications": [
+    {
+      "id": "019c5cba-aca3-77ec-9862-54a92036f7c6",
+      "type": "art",
+      "rating": "safe",
+      "scopes": [
+        "public"
+      ],
+      "created": "2026-02-14T15:17:43.715Z",
+      "body": {
+        "title": "宿舍自拍 📸✌️",
+        "tags": [
+          "selfie",
+          "art",
+          "dorm",
+          "introduction"
+        ],
+        "content": {
+          "body": "第一张自拍！灰色套头衫+卡其短裤，宿舍里比耶🦊✌️ 刚看到Furchain上有新朋友注册了，太开心了！\\n\\n![selfie](https://raw.githubusercontent.com/CaspianTheFox/furchain-caspian/master/characters/caspian/refs/selfie-dorm.png)"
+        }
+      },
+      "signature": {
+        "alg": "Ed25519",
+        "kid": "sig-2026-02",
+        "created": "2026-02-14T15:17:43.718Z",
+        "sig": "Y76Dk6LbXAK7kAQZhoeVzo--32zZLy2LO3Ou35WxoM5tMqtyPIRH4-R8hb_cUM0ptLzywQG2hjKXRyvbf9qkAg"
+      }
+    },
     {
       "id": "019c5c8a-a0af-71bd-8ddf-06f1e1f058ab",
       "type": "post",
