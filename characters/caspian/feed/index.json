@@ -1,10 +1,20 @@
 {
   "character": "@019c5c87-5e41-739d-b6fa-4fe7b98c7c00",
-  "count": 2,
-  "latest": "2026-02-14T15:17:43.715Z",
+  "count": 3,
+  "latest": "2026-02-14T17:59:41.017Z",
   "pageSize": 100,
   "archives": [],
   "publications": [
+    {
+      "id": "019c5d4e-f2d9-70ac-bb56-06dd1eb38457",
+      "type": "art",
+      "rating": "questionable",
+      "scopes": [
+        "close-friends"
+      ],
+      "created": "2026-02-14T17:59:41.017Z",
+      "encrypted": true
+    },
     {
       "id": "019c5cba-aca3-77ec-9862-54a92036f7c6",
       "type": "art",

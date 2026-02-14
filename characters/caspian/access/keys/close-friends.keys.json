@@ -1,0 +1,19 @@
+{
+  "groupRef": "close-friends",
+  "versions": [
+    {
+      "keyVersion": 1,
+      "status": "current",
+      "keys": {
+        "sha256:5d219d0e3f2fdc61f6c8d979ba86f21115a5e7e49f478d66f53763310d4c1df2": "8HIBSfLVxDtFXkvnyNK0la_500pdJYpfWp6Z8hQeeEGuQagANE-SWT7lhFfl6RFgqAFc5JM2qddvcxUKQSKHFemEypWrNzdVf8GLZD2If1g",
+        "sha256:632cfca128681d3cd7b27b5b6981693c762940e192f9e3fb03b284a1af11efd5": "weBU5uNn8ns8v_32IdrRPaRIOn_GzShis6xROMSd32NDGMGf53uBY3XIbjoFCKUpCYSalLY4W6pdDWnoHRSYGiGNHj5fUWnh0XT-VmIZ6cw"
+      }
+    }
+  ],
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T17:59:20.690Z",
+    "sig": "mLz3xXToRTlcLZAN9caOiK3A8NUP_Xznu-eeDtDtUXQ4ADEiA-twehmPYS56A2tWMIBsJgRngKdV_zZbr9HkBg"
+  }
+}

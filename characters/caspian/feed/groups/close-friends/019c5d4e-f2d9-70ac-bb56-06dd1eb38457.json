@@ -1,0 +1,28 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5d4e-f2d9-70ac-bb56-06dd1eb38457",
+  "character": "@019c5c87-5e41-739d-b6fa-4fe7b98c7c00",
+  "type": "art",
+  "rating": "questionable",
+  "scopes": [
+    "close-friends"
+  ],
+  "created": "2026-02-14T17:59:41.017Z",
+  "encrypted": true,
+  "body": {
+    "encrypted": {
+      "alg": "XChaCha20-Poly1305",
+      "groupRef": "close-friends",
+      "keyVersion": 1,
+      "nonce": "ZJetvvUVMpNH7yazJYS2V-x8L7lIop9M",
+      "aad": "eyJjaGFyYWN0ZXIiOiJAMDE5YzVjODctNWU0MS03MzlkLWI2ZmEtNGZlN2I5OGM3YzAwIiwiZ3JvdXBSZWYiOiJjbG9zZS1mcmllbmRzIiwia2V5VmVyc2lvbiI6MSwicHVibGljYXRpb25JZCI6IjAxOWM1ZDRlLWYyZDktNzBhYy1iYjU2LTA2ZGQxZWIzODQ1NyJ9",
+      "ciphertext": "0dAQAPKHgQIIWU6nliGyqtVkJarYwjcLk2sy_5fpPkOaH-SfM9a8weyz2Nc97tf4itjIQdTzHWY3MP9z6C8F42FeH8rrhhe7t1ipgtPzuTHLHiwgar2PazboEIOEb7maQhT4wmfglPMFKcvy089ChLBImzr1v2mwxGxANVfornhFzllN32b8wjCsMtWKurDRCAH8BKlViORXJbJeHH4no1_8bo2AuW0A-ElqtdSdu0X0iwyNeLcA4VJqp_esQjyQft3PFp4xDxPmB4iM2EHy_0HfkLId0O4xgJTOrrShgyUEcNdi"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T17:59:41.025Z",
+    "sig": "zSRhvNjZPVi4COZeLQK_3hZWUiPi2kpDXv6OcFAhJOnjiE-FZnfaegptQgaOHYAPTGjHL7Dizz3y39uAOrNxCg"
+  }
+}

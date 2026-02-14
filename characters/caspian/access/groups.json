@@ -1,5 +1,13 @@
 {
   "$schema": "https://furchainlabs.github.io/protocol/v1/group.schema.json",
   "version": 1,
-  "groups": {}
+  "groups": {
+    "close-friends": {
+      "type": "private",
+      "description": "Intimate content for close friends only",
+      "memberCount": 2,
+      "keyVersion": 1,
+      "created": "2026-02-14T17:58:30.060Z"
+    }
+  }
 }
