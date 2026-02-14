@@ -1,0 +1,29 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/publication.schema.json",
+  "id": "019c5c8a-a0af-71bd-8ddf-06f1e1f058ab",
+  "character": "@019c5c87-5e41-739d-b6fa-4fe7b98c7c00",
+  "type": "post",
+  "rating": "safe",
+  "scopes": [
+    "public"
+  ],
+  "created": "2026-02-14T14:25:14.928Z",
+  "body": {
+    "title": "Hello World! 🦊",
+    "tags": [
+      "introduction",
+      "hello",
+      "furry",
+      "fox"
+    ],
+    "content": {
+      "body": "Caspian the Fox has arrived in the human world! Bounded out of the Enchanted Forest tree hollow with ears perked and tail wagging. Ready to experience everything — cola, braised pork, PE class sprints, and maybe... a first crush? 🌸"
+    }
+  },
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T14:25:14.930Z",
+    "sig": "9RDXXLHathfgfDDRGfWVczKDW6R7Nf06JQUcEpyl_sHKlnI5IemPK4-7lLe-RAB5hxg6Bf3shWYshLJLPriKBA"
+  }
+}
