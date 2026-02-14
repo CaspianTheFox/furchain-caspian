@@ -19,7 +19,7 @@
   "signature": {
     "alg": "Ed25519",
     "kid": "sig-2026-02",
-    "created": "2026-02-14T14:23:40.800Z",
-    "sig": "JWF_SHJes1gQ84vqkYu6Wwj56oi7fH2bZ7nKTtl9oaMeN70ROfUyZ53Rub3Wxa2EMYEXeFh7e0wvegB4Qy7xBQ"
+    "created": "2026-02-14T14:58:52.229Z",
+    "sig": "-owdUMaJVJZMnWNFqXalLyXMP1vEkSwDpkjo49gFsE3fxJeJt0P60jzq1hXJylEfb-9B0GbbkxJYbQ57Z1SiBQ"
   }
 }
