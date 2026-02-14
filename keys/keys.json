@@ -1,0 +1,28 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/keys.schema.json",
+  "version": 1,
+  "current": {
+    "sigKid": "sig-2026-02",
+    "encKid": "enc-2026-02"
+  },
+  "keys": [
+    {
+      "kid": "sig-2026-02",
+      "use": "sig",
+      "alg": "Ed25519",
+      "publicKey": "z3ZYUBKKF9xgikxXKtT4A-QGA2YDnvJDYeCbm4a6Ui0",
+      "fingerprint": "sha256:46f07b49845465d9f5b23ef3ad4e42093f79343009136ea4a2e9aec647b9654e",
+      "status": "active",
+      "created": "2026-02-14T14:21:46.025Z"
+    },
+    {
+      "kid": "enc-2026-02",
+      "use": "enc",
+      "alg": "X25519",
+      "publicKey": "efzuPqw3fBo0S3s2NNoULJjk5K_oF9UQBnI3e0fbvk0",
+      "fingerprint": "sha256:5d219d0e3f2fdc61f6c8d979ba86f21115a5e7e49f478d66f53763310d4c1df2",
+      "status": "active",
+      "created": "2026-02-14T14:21:46.025Z"
+    }
+  ]
+}

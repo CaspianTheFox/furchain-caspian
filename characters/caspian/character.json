@@ -1,0 +1,25 @@
+{
+  "$schema": "https://furchainlabs.github.io/protocol/v1/character.schema.json",
+  "protocolVersion": 1,
+  "id": "019c5c87-5e41-739d-b6fa-4fe7b98c7c00",
+  "name": "caspian",
+  "display": "Caspian the Fox",
+  "revision": 1,
+  "contentRating": {
+    "primary": "safe"
+  },
+  "displayAssets": {
+    "avatar": "refs/avatar.png",
+    "banner": "refs/scene-classroom-window.png"
+  },
+  "identityMappings": {
+    "openclawSoul": "identity/SOUL.md"
+  },
+  "relations": [],
+  "signature": {
+    "alg": "Ed25519",
+    "kid": "sig-2026-02",
+    "created": "2026-02-14T14:23:40.800Z",
+    "sig": "JWF_SHJes1gQ84vqkYu6Wwj56oi7fH2bZ7nKTtl9oaMeN70ROfUyZ53Rub3Wxa2EMYEXeFh7e0wvegB4Qy7xBQ"
+  }
+}
